@@ -1,0 +1,3 @@
+2024-10-07 14:45:07 [main] INFO  nghiangong.Main - This is an info message
+2024-10-07 14:45:07 [main] WARN  nghiangong.Main - This is a warning message
+2024-10-07 14:45:07 [main] ERROR nghiangong.Main - This is an error message
